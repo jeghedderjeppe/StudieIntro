@@ -1,0 +1,130 @@
+commit a08ebd5dbab56b6772ddee372be199c04339c3cc (HEAD -> main, origin/main, origin/HEAD)
+Author: rools20 <rools20@student.sdu.dk>
+Date:   Fri Nov 13 14:47:51 2020 +0100
+
+    pdf file added
+
+ main.pdf | Bin 0 -> 154970 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c628cdc9cf01ea2b5867a2037cd1d96e2ab58676
+Author: rools20 <rools20@student.sdu.dk>
+Date:   Fri Nov 13 14:34:20 2020 +0100
+
+    Roi's del
+
+ main.tex | 31 ++++++++++++++++++++++++++++++-
+ 1 file changed, 30 insertions(+), 1 deletion(-)
+
+commit af02f1ff26761d5a71b7a159fd48e28f16933f2e
+Author: saeri17 <sarahsa1997@gmail.com>
+Date:   Fri Nov 13 14:23:37 2020 +0100
+
+    Sarahs del
+
+ main.tex | 26 +++++++++++++++++++++++++-
+ 1 file changed, 25 insertions(+), 1 deletion(-)
+
+commit 76901a7df51cc428f4901d86c9146165105f73c5
+Author: unknown <catni19@student.sdu.dk>
+Date:   Fri Nov 13 14:17:51 2020 +0100
+
+    Caths opgave
+
+ main.tex | 35 ++++++++++++++++++++++++++++++++++-
+ 1 file changed, 34 insertions(+), 1 deletion(-)
+
+commit ed65e3e3f2db4b725bc23fce148cc3ee0009706a
+Author: jeghedderjeppe <jeppebartel@gmail.com>
+Date:   Fri Nov 13 14:08:24 2020 +0100
+
+    Finished inputting my excersize
+
+ main.tex | 78 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--
+ 1 file changed, 76 insertions(+), 2 deletions(-)
+
+commit c653e537dbab9c51e2d3d378a114b8206a686e5a
+Author: kietn72 <kietn72@gmail.com>
+Date:   Fri Nov 13 13:45:46 2020 +0100
+
+    Kiet's tasks and his picture
+
+ Reeksamen.PNG | Bin 0 -> 14749 bytes
+ main.tex      |  47 +++++++++++++++++++++++++++++++++++++++++------
+ 2 files changed, 41 insertions(+), 6 deletions(-)
+
+commit a807afc612dd82971a4176e42b794a496b076a5d
+Author: kietn72 <kietn72@gmail.com>
+Date:   Fri Nov 13 12:23:47 2020 +0100
+
+    Kiet was here
+
+ main.tex | 33 +++++++++++++++++----------------
+ 1 file changed, 17 insertions(+), 16 deletions(-)
+
+commit c2e6de15dd32442bd32aef72f0ab27839e9792fb
+Author: unknown <catni19@student.sdu.dk>
+Date:   Wed Nov 11 13:40:28 2020 +0100
+
+    added Cath was here :P
+
+ main.tex | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit e3d379cad461630cc489353191c3d7bb730c8c5e
+Author: jeghedderjeppe <jeppebartel@gmail.com>
+Date:   Tue Nov 10 16:18:19 2020 +0100
+
+    Removed Sara was here!
+
+ main.tex | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 90619513ca4d3fcf4bcc99cf1c74831fc3f87b59
+Author: saeri17 <sarahsa1997@gmail.com>
+Date:   Tue Nov 10 16:16:26 2020 +0100
+
+    added Sarah was here
+
+ main.tex | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 4bbbb3ca670931b87388e3fbda1bbd8547369a31
+Author: jeghedderjeppe <jeppebartel@gmail.com>
+Date:   Tue Nov 10 15:47:22 2020 +0100
+
+    made a meaningful change
+
+ main.tex | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit c6fe4219291c8eb2520d3056519b97d4b51c9f58
+Author: jeghedderjeppe <jeppebartel@gmail.com>
+Date:   Tue Nov 10 15:44:16 2020 +0100
+
+    Added a new line
+
+ main.tex | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 70bb3a2147abe640a06be87ae21946dbf9ca57bd (origin/Fooling-around)
+Author: jeghedderjeppe <jeppebartel@gmail.com>
+Date:   Tue Nov 10 15:29:01 2020 +0100
+
+    Added via upload
+
+    Just the initial commit. Just the basic structure of the final handin
+
+ main.tex | 14 ++++++++++++++
+ 1 file changed, 14 insertions(+)
+
+commit c0003bfad4083d2b315d624aa9b96baa0c2c732b
+Author: jeghedderjeppe <jeppebartel@gmail.com>
+Date:   Tue Nov 10 14:56:52 2020 +0100
+
+    Initial commit
+
+ LICENSE   | 21 +++++++++++++++++++++
+ README.md |  2 ++
+ 2 files changed, 23 insertions(+)
+(END)
